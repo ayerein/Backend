@@ -1,0 +1,14 @@
+[
+  {
+    "title": "agua",
+    "price": 50,
+    "thumbnail": "URL de la imagen",
+    "id": 1
+  },
+  {
+    "title": "jugo",
+    "price": 75,
+    "thumbnail": "URL de la imagen",
+    "id": 2
+  }
+]
